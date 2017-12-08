@@ -1,0 +1,63 @@
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+}
+li {
+ float: right;
+}
+li a {
+ display: inline-block;
+ text-align: center;
+ padding: 0 10px 10px 10px;
+ text-decoration: underline;
+}
+body {
+  height: 940px;
+  width: 1910px;
+  padding-left: 0px;
+  padding-top: 10px;
+  border-color: lightcoral;
+  border-style: solid;
+  border-width: 5px;
+  background-color: white;
+}
+html {
+  background-color: purple;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+header{
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Venezuela_%281954-2006%29.png/220px-Flag_of_Venezuela_%281954-2006%29.png);
+background-color: Thistle;
+height: 130px;
+width: 1900px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 10px;
+border-color: lightcoral;
+border-style: solid;
+border-width: 0px;
+margin-top: 30px;
+margin-bottom: 10px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+h1 {
+  color: orangered;
+  text-align: center;
+  font-family: Futura, Impact, Helvetica, Arial, sans-serif;
+  padding-top: 35px;
+}
+h2{
+  padding-left: 30px;
+}
+p {
+  padding-left: 30px;
+}
+h6 {
+padding-left: 30px;
+}

@@ -1,0 +1,88 @@
+
+
+ul {
+ list-style-type: none;
+ padding: 0px;
+}
+a {
+ float: right;
+}
+.breadcumb {
+  width: 400px;
+}
+li a {
+ display: inline-block;
+ text-align: right;
+ padding: 0 10px 10px 10px;
+ text-decoration: underline;
+}
+header {
+background-color: Thistle;
+height: 250px;
+width: 1903px;
+padding-left: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+border-color: lightcoral;
+border-style: solid;
+border-width: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+margin-left: auto;
+margin-right: auto;
+}
+
+body {
+  height: 1540px;
+  width: 1903px;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-right: 5px;
+  border-color: lightcoral;
+  border-style: solid;
+  border-width: 0px;
+  background-color: white;
+}
+strong {
+  font-size:14PT;
+  color: steelblue;
+  font-family:"Georgia"
+}
+html {
+  background-color: purple;
+}
+h1 {
+  text-decoration: underline;
+  float: center;
+  padding-left: 700px;
+
+}
+h2 {
+  text-decoration: underline;
+  float: center;
+  padding-left: 750px;
+}
+img {
+  float: left;
+  padding-left: 0px;
+  padding-right: 0px;
+  border-width: 5px;
+  border-color: lightcoral;
+  border-style: solid;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 6px;
+}
+.FBlike {
+  float: right;
+ }
+h3 {
+padding-top: 10px;
+}
